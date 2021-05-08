@@ -37,8 +37,14 @@ h3 {
 
 p, li, a, footer {
   font-size: 3.2rem;
+  padding-bottom: 1.5rem;
 }
 
 a {
   color: #658c0f;
+}
+
+section {
+	margin: .5rem;
+	padding-top: 2.0rem;
 }
