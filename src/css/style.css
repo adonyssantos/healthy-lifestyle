@@ -17,26 +17,26 @@ body {
 
 .container {
   max-width: 90%;
-  width: 400px;
+  width: 900px;
   margin: 0 auto;
 }
 
 h1 {
   color: #f2790f;
-  font-size: 2.4rem;
+  font-size: 6.4rem;
 }
 
 h2 {
   color: #d99559;
-  font-size: 1.8rem;
+  font-size: 5.4rem;
 }
 
 h3 {
-  font-size: 1.4rem;
+  font-size: 4.4rem;
 }
 
-p {
-  font-size: 1.2rem;
+p, li, a, footer {
+  font-size: 3.2rem;
 }
 
 a {
