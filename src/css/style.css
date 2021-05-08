@@ -52,3 +52,9 @@ section {
 ul li, ol li {
 	margin-left: 10%;
 }
+
+img {
+	width: 100%;
+	height: auto;
+	margin-top: 0;
+}
