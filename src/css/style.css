@@ -58,3 +58,19 @@ img {
 	height: auto;
 	margin-top: 0;
 }
+
+.italic {
+	color: #5e585a;
+	font-weight: lighter;
+	font-style: italic;
+
+}
+
+footer {
+	padding-top: 10px;
+}
+
+footer p, footer p a {
+	font-size: 2.4rem;
+	text-align: center;
+}
